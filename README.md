@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Mugunthan N</h1>
 <h3 align="center">I enjoy building Intuitive WebApps with a great User Experience</h3>
 <img align="right" alt="codingGIF" width="400" src="https://cdn.prod.website-files.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif">
