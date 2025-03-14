@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Mugunthan N</h1>
 <h3 align="center">I enjoy building Intuitive WebApps with a great User Experience</h3>
-<img align="right" alt="codingGIF" width="400" src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif">
+<img align="right" alt="codingGIF" width="400" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 
 - 🔭 I’m currently working on [Parko - A smart car parking solution](https://github.com/mugunthan17/Parko)
 
